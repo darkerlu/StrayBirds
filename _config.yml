@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: Darker
+username: darkerlu
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
